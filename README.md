@@ -2,7 +2,7 @@
 
 ## Overview
 
-In the dynamic world of e-commerce, particularly in the fashion sector, the persisting challenge of returns and dissatisfied customers due to sizing issues demands a revolutionary solution. This project, developed by a single individual, presents an innovative Size Estimator and Virtual Try-On system. Leveraging cutting-edge AI and ML techniques, the aim is to empower shoppers to make informed decisions about fit and style effortlessly.
+In the dynamic world of e-commerce, particularly in the fashion sector, the persisting challenge of returns and dissatisfied customers due to sizing issues demands a revolutionary solution. This project presents an innovative Size Estimator and Virtual Try-On system. Leveraging cutting-edge AI and ML techniques, the aim is to empower shoppers to make informed decisions about fit and style effortlessly.
 
 ## Size Estimator
 
